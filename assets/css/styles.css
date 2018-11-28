@@ -186,3 +186,23 @@ footer{
     padding: 20px;
     margin-top: 20px;
 }
+
+input, textarea{
+    margin: 5px 0 15px 0;
+    border: 2px solid #ccc;
+    padding: 10px;
+    font-size: 15px;
+    width: 100%;
+}
+
+textarea{
+    height: 200px;
+}
+
+button{
+    color: white;
+    background-color: #4aaaa5;
+    border: none;
+    font-size: 15px;
+    padding: 6px 18px;
+}
